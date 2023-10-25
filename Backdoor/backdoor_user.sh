@@ -11,8 +11,8 @@ set +o history
 echo "[i] - Nothing else will be recorded."
 
 # Definition of variables
-user=${1:-"miracle"}
-password=${2:-"b4ckd00r3d"}
+user=${1:-"m1racle"}
+password=${2:-"pWnedb4ckd00r3d"}
 
 # Captures file modification time
 mtime_passwd=$(stat -c "%y" /etc/passwd)
