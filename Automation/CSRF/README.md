@@ -14,6 +14,4 @@ Note
 This example is purely educational and should not be used for malicious purposes. It is crucial to understand the importance of protecting web applications against CSRF attacks and implementing appropriate security measures.
 
 ## License
-This code is distributed under the MIT License. See the LICENSE file for more details.
-
-Remember to replace [Your Name] with your real name and customize the description, usage, and instructions according to the specific context in which this code is being used. Be sure to emphasize that this code is for educational purposes only and should not be used maliciously.
+This code is distributed under the [MIT License](https://opensource.org/license/mit/). See the LICENSE file for more details.
