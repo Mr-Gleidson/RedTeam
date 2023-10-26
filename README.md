@@ -1,6 +1,6 @@
 # red-team
 
-![RedTeam respository by @mr.gleidson](https://github.com/Mr-Gleidson/red-team/assets/71082395/2f58ea8d-d8ff-4fec-90fb-c9d53b431493)
+![RedTeam respository by @mr.gleidson](https://github.com/Mr-Gleidson/red-team/assets/71082395/8a9b94f3-1d57-4c2a-85bd-295f7cea98db)
 
 
 This repository has some scripts, some tools developed to automate part of some Pentest processes. Use must be restricted in laboratories or in environments where you have a current contract to carry out testing.
